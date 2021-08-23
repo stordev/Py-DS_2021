@@ -122,7 +122,7 @@ jupyter-highlight-selected-word==0.2.0
 jupyter-kite==1.0.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator @ file:///Users/runner/miniforge3/conda-bld/jupyter_nbextensions_configurator_1594127106028/work
-jupyterlab==1.2.6
+jupyterlab==1.2.21
 jupyterlab-server==1.0.6
 jupyterthemes==0.20.0
 Keras==2.4.3

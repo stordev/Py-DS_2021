@@ -55,7 +55,7 @@ deep-translator==1.4.4
 defusedxml==0.6.0
 diff-match-patch==20181111
 distlib==0.3.2
-distributed==2.11.0
+distributed==2021.10.0
 docutils==0.16
 efficientnet==1.1.1
 en-core-web-sm==3.0.0
